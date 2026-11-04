@@ -1,0 +1,5 @@
+Student: SILVERIO
+Student ID: TUPM-26-1261
+Seed digit: 1
+ID sum: 18
+Verification value: 145

@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------------
+Last Name:SILVERIO
+Student ID:TUPM-26-1261
+Seed Digit:1
+ID Sum: 18
+Verification Value: 145
+Dataset Sample Size: 68
+Valid Records: 68
+Average Global Active Power: 4.062
+JSON File: SILVERIO_TUPM-26-1261_record.json
+Backup File: SILVERIO_TUPM-26-1261_record.csv
