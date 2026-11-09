@@ -1,0 +1,32 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Student: Silverio (TUPM-26-1261)
+Target year: 2016
+Total records in dataset: 3000
+Incidents in target year: 285
+Invalid financial values skipped: 0
+
+Count per attack type:
+  Phishing: 55
+  DDoS: 53
+  Man-in-the-Middle: 47
+  SQL Injection: 47
+  Ransomware: 42
+  Malware: 41
+
+Total financial loss (USD millions): 13947.26
+Average financial loss (USD millions): 48.94
+
+Five costliest incidents:
+  1. Germany | Phishing | 99.98M
+  2. USA | Ransomware | 99.88M
+  3. Brazil | Malware | 99.29M
+  4. USA | Ransomware | 99.19M
+  5. Australia | Phishing | 98.72M
+
+Output files:
+  output\Silverio_TUPM-26-1261_ex3_filtered.csv
+  output\Silverio_TUPM-26-1261_ex3_top5.json
+  backup\Silverio_TUPM-26-1261_ex3_top5.json
+  output\Silverio_TUPM-26-1261_ex3_report.txt
+Backup verification: VERIFIED

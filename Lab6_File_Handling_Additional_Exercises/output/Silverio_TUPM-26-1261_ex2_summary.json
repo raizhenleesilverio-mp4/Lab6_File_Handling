@@ -1,0 +1,15 @@
+{
+    "last_name": "Silerio",
+    "student_id": "TUPM-26-1261",
+    "seed_digit": 1,
+    "operating_system": "iOS",
+    "user_behavior_class": 2,
+    "total_records": 700,
+    "records_matching_os": 146,
+    "records_in_target_class": 32,
+    "invalid_records": 0,
+    "average_battery_drain_mah_day": 872.03,
+    "average_data_usage_mb_day": 451.34,
+    "exported_rows": 32,
+    "count_verification": "VERIFIED"
+}
